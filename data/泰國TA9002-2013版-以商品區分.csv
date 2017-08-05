@@ -1,0 +1,733 @@
+Commodity,Pesticide,Maximum Residue Limit (MRL)(mg/kg)
+Okra,chlorpyrifos,0.5
+Okra,carbosulfan,0.5
+Okra,carbosulfan / carbofuran ,0.15
+Okra,cypermethrin),0.5
+Okra,dithiocarbamates,0.2
+Okra,methomyl,0.5
+Okra,lambda-cyhalothrin,0.03
+Lead tree leaves,carbaryl,0.02
+Lead tree leaves,carbosulfan,0.2
+Lead tree leaves,carbosulfan / carbofuran ,0.2
+Lead tree leaves,omethoate,0.05
+Garlic,deltamethrin,0.1
+Garlic,dithiocarbamates,0.5
+Garlic,triazophos,0.05
+Banana,chlorpyrifos,2
+Banana,carbosulfan / carbofuran,0.01
+Banana,ethephon,2
+Basil,fipronil,0.2
+Basil,lambda-cyhalothrin,0.5
+Cabbages,profenofos,1
+Cabbages,fenvalerate,3
+Cabbages,malathion,8
+"Other cabbages, except broccoli and cauliflower",lambda-cyhalothrin,0.3
+"Chives, Chinese",carbemdazim / benomyl,3
+Grapefruit,cypermethrin,0.5
+Barley,captan,0.02
+Rice,chlorpyrifos,0.5
+Rice,paraquat,0.05
+Rice,pirimiphos-methyl,7
+Rice,fipronil,0.01
+Rice,fenitrothion,6
+Rice,acephate,1
+Rice,imidacloprid,0.05
+Sweet corn (corn-on-the cob),"2,4-D",0.05
+Sweet corn (corn-on-the cob),carbaryl,0.1
+Sweet corn (corn-on-the cob),carbosulfan,0.05
+Sweet corn (corn-on-the cob),carbosulfan / carbofuran,0.01
+Sweet corn (corn-on-the cob),cypermethrin,0.05
+Sweet corn (corn-on-the cob),deltamethrin,0.02
+Sweet corn (corn-on-the cob),diazinon,0.02
+Sweet corn (corn-on-the cob),paraquat,0.05
+Sweet corn (corn-on-the cob),pirimiphos-methyl,1
+Sweet corn (corn-on-the cob),fenvalerate,0.1
+Sweet corn (corn-on-the cob),fenitrothion,1
+Sweet corn (corn-on-the cob),malathion,0.02
+Sweet corn (corn-on-the cob),metalaxyl or metalaxyl M,0.05
+Sweet corn (corn-on-the cob),methomyl,0.1
+Sweet corn (corn-on-the cob),atrazine,0.1
+Baby corn,"2,4-D",0.05
+Baby corn,carbaryl,0.1
+Baby corn,carbosulfan,0.05
+Baby corn,carbosulfan / carbofuran,0.01
+Baby corn,cypermethrin,0.05
+Baby corn,deltamethrin,0.02
+Baby corn,diazinon,0.02
+Baby corn,paraquat,0.05
+Baby corn,pirimiphos-methyl,1
+Baby corn,fenvalerate,0.1
+Baby corn,fenitrothion,1
+Baby corn,malathion,0.02
+Baby corn,metalaxyl or metalaxyl M,0.05
+Baby corn,methomyl,0.1
+Baby corn,atrazine,0.1
+Maize,"2,4-D",0.05
+Maize,carbaryl,0.02
+Maize,carbosulfan,0.05
+Maize,carbosulfan / carbofuran,0.05
+Maize,cypermethrin,0.05
+Maize,deltamethrin,1
+Maize,diazinon,0.02
+Maize,paraquat,0.03
+Maize,pirimiphos-methyl,1
+Maize,fenitrothion,1
+Maize,malathion,0.05
+Maize,metalaxyl or metalaxyl M,0.05
+Maize,methomyl,0.02
+Maize,atrazine,0.1
+Sorghum,"2,4-D",0.01
+Sorghum,carbaryl,10
+Sorghum,carbosulfan,0.05
+Sorghum,carbosulfan / carbofuran,0.1
+Sorghum,dimethoate,0.01
+Sorghum,diazinon,0.02
+Sorghum,triazophos,0.05
+Sorghum,paraquat,0.03
+Sorghum,malathion,3
+Sorghum,methomyl,0.02
+Sorghum,lambda-cyhalothrin,0.2
+"Rice, husked and polished",chlorpyrifos,0.1
+"Rice, husked and polished",carbaryl,1
+"Rice, husked and polished",carbendazim / benomyl,2
+"Rice, husked and polished",carbosulfan,0.2
+"Rice, husked and polished",carbosulfan / carbofuran,0.1
+"Rice, husked and polished",sulfuryl fluoride,0.1
+"Rice, husked and polished","2,4-D",0.1
+"Rice, husked and polished",dithiocarbamates,0.05
+"Rice, husked and polished",paraquat,0.05
+"Rice, husked and polished",pirimiphos-methyl,5
+"Rice, husked and polished",fipronil,0.01
+"Rice, husked and polished",fenitrothion,1
+"Rice, husked and polished",methyl bromide (analysed as bromind ion),50
+"Rice, husked and polished",acephate,1
+"Rice, husked and polished",imidacloprid,0.05
+"Rice, husked and polished",hydrogen phosphide,0.1
+"Rice, husked and polished (at point of sale)",methyl bromide (analysed as methyl bromide),0.01
+"Rice, husked and polished ( at the point of entry into a country or at point of fumigation and commodity has been freely exposed to air for a period of at leat 24 h after fumigation.)",methyl bromide (analysed as methyl bromide),1
+"Spices, Fruits or Berries",chlorpyrifos,1
+"Spices, Fruits or Berries",quintozene,0.02
+"Spices, Fruits or Berries",cypermethrin,0.1
+"Spices, Fruits or Berries",dicofol,0.1
+"Spices, Fruits or Berries",dimethoate,0.5
+"Spices, Fruits or Berries",diazinon,0.1
+"Spices, Fruits or Berries",triazophos,0.07
+"Spices, Fruits or Berries",pirimiphos-methyl,0.5
+"Spices, Fruits or Berries",fenitrothion,1
+"Spices, Fruits or Berries",phosalone,2
+"Spices, Fruits or Berries",malathion,1
+"Spices, Fruits or Berries",ethion,5
+"Spices, Seeds",chlorpyrifos,5
+"Spices, Seeds",quintozene,0.1
+"Spices, Seeds",dicofol,0.05
+"Spices, Seeds",dimethoate,5
+"Spices, Seeds",diazinon,5
+"Spices, Seeds",pirimiphos-methyl,3
+"Spices, Seeds",phenthoate,7
+"Spices, Seeds",fenitrothion,7
+"Spices, Seeds",phosalone,2
+"Spices, Seeds",malathion,2
+"Spices, Seeds",metalaxyl or metalaxyl M,5
+"Spices, Seeds",ethion,3
+"Spices, Seeds",iprodione,0.05
+"Spices, Roots or Rhizomes",chlorpyrifos,1
+"Spices, Roots or Rhizomes",quintozene,2
+"Spices, Roots or Rhizomes",cypermethrin,0.2
+"Spices, Roots or Rhizomes",dicofol,0.1
+"Spices, Roots or Rhizomes",dimethoate,0.1
+"Spices, Roots or Rhizomes",diazinon,0.5
+"Spices, Roots or Rhizomes",triazophos,0.1
+"Spices, Roots or Rhizomes",fenitrothion,0.1
+"Spices, Roots or Rhizomes",phosalone,3
+"Spices, Roots or Rhizomes",malathion,0.5
+"Spices, Roots or Rhizomes",ethion,0.3
+"Spices, Roots or Rhizomes",iprodione,0.1
+Spices,dichlorvos,0.1
+Spices,permethrin,0.05
+Spices,acephate,0.2
+Rambutan,chlorpyrifos,0.5
+Rambutan,carbaryl,1
+Rambutan,carbemdazim / benomyl,3
+Rambutan,carbosulfan,0.2
+Rambutan,carbosulfan / carbofuran,0.05
+Rambutan,dithiocarbamates,2
+Rambutan,folpet,0.1
+Rambutan,methidation,0.5
+Rambutan,lambda-cyhalothrin,0.5
+Rose apple,profenofos,0.05
+Cherry,ethephon,3
+Cauliflower,malathion,0.5
+Spring onion,"2,4-D",0.05
+Spring onion,carbemdazim / benomyl,3
+Spring onion,deltamethrin,0.5
+Spring onion,dithiocarbamates,10
+Spring onion,profenofos,0.05
+Spring onion,phosalone,0.5
+Spring onion,malathion,5
+"Fruiting vegetables, cucurbits",dicofol,0.5
+"Fruiting vegetables, cucurbits",dithiocarbamates,2
+"Fruiting vegetables, cucurbits",dimethoate,1
+"Fruiting vegetables, cucurbits",metalaxyl or metalaxyl M,0.5
+"Cucumber and other cucurbits, except watermelon",paraquat,0.02
+"Cucumber and other cucurbits, except watermelon",carbaryl,3
+"Cucumber and other cucurbits, except watermelon",carbosulfan,0.5
+"Cucumber and other cucurbits, except watermelon",ethion,0.3
+Muskmelon,dithiocarbamates,0.5
+Muskmelon,dimethoate,1
+Muskmelon,metalaxyl or metalaxyl M,0.2
+Watermelon,carbaryl,1
+Watermelon,carbosulfan,0.2
+Watermelon,dithiocarbamates,1
+Watermelon,metalaxyl or metalaxyl M,0.2
+Watermelon,methomyl,0.1
+Watermelon,abamectin,0.01
+Cucumber,metalaxyl or metalaxyl M,0.5
+"Fruiting vegetables, cucurbits, except cucumber and watermelon",dithiocarbamates,0.5
+Mung bean (dry),carbemdazim / benomyl,0.5
+Mung bean (dry),carbosulfan,0.05
+Mung bean (dry),carbosulfan / carbofuran,0.2
+Mung bean (dry),dicofol,0.1
+Mung bean (dry),triazophos,0.2
+Mung bean (dry),prothiofos,0.05
+Mung bean (dry),methomyl,0.05
+Mung bean (dry),lambda-cyhalothrin,0.2
+Mung bean (dry),acephate,0.3
+Mung bean (dry),omethoate,0.05
+Yard-long bean (pods),carbosulfan,0.1
+Yard-long bean (pods),carbosulfan / carbofuran,0.1
+Yard-long bean (pods),cypermethrin,0.7
+Yard-long bean (pods),deltamethrin,0.2
+Yard-long bean (pods),dimethoate,0.05
+Yard-long bean (pods),triazophos,0.4
+Yard-long bean (pods),fipronil,0.04
+Yard-long bean (pods),fenvalerate,1
+Yard-long bean (pods),phosalone,0.5
+Yard-long bean (pods),methomyl,1
+Yard-long bean (pods),abamectin,0.01
+Yard-long bean (pods),omethoate,0.05
+Legume vegetables,ethion,0.3
+Pulses,dimethoate,0.1
+Pulses,paraquat,0.5
+Pulses,ethion,0.1
+Garden pea (young pods),carbosulfan,0.1
+Garden pea (young pods),carbosulfan / carbofuran,0.15
+Garden pea (young pods),cypermethrin,0.05
+Garden pea (young pods),phosalone,0.5
+Garden pea (young pods),abamectin,0.01
+Soya bean (young pod),chlorpyrifos,1
+Soya bean (young pod),chlorothalonil,2
+Soya bean (young pod),carbemdazim / benomyl,3
+Soya bean (young pod),carbosulfan,0.5
+Soya bean (young pod),carbosulfan / carbofuran,0.02
+Soya bean (young pod),captan,5
+Soya bean (young pod),cypermethrin,5
+Soya bean (young pod),dithiocarbamates,0.2
+Soya bean (young pod),fenitrothion,0.5
+Soya bean (young pod),phosalone,0.5
+Soya bean (young pod),methomyl,0.5
+Soya bean (young pod),lambda-cyhalothrin,0.2
+Soya bean (young pod),triazophos,1
+Soya bean (immature seeds),triazophos,0.5
+Soya bean (dry),chlorpyrifos,0.1
+Soya bean (dry),chlorothalonil,0.2
+Soya bean (dry),carbemdazim / benomyl,0.5
+Soya bean (dry),carbosulfan,0.05
+Soya bean (dry),carbosulfan / carbofuran,0.1
+Soya bean (dry),captan,5
+Soya bean (dry),cypermethrin,0.05
+Soya bean (dry),dicofol,0.05
+Soya bean (dry),dithiocarbamates,0.1
+Soya bean (dry),triazophos,0.05
+Soya bean (dry),paraquat,0.1
+Soya bean (dry),profenofos,0.05
+Soya bean (dry),fenvalerate,0.1
+Soya bean (dry),fenitrothion,0.5
+Soya bean (dry),phosalone,0.05
+Soya bean (dry),methomyl,0.2
+Soya bean (dry),lambda-cyhalothrin,0.2
+Soya bean (dry),acephate,0.3
+Soya bean (dry),omethoate,0.05
+Durian,carbaryl,1
+Durian,carbosulfan,0.2
+Durian,carbosulfan / carbofuran,0.02
+Durian,cypermethrin,1
+Durian,dithiocarbamates,2
+Durian,profenofos,0.05
+Durian,phosalone,1
+Durian,metalaxyl or metalaxyl M,0.5
+Durian,methidation,0.5
+Durian,lambda-cyhalothrin,0.5
+Durian,ethephon,2
+Cereal grains,dichlorvos,0.2
+Sugar apple,methidation,0.5
+Soya bean oil,methomyl,0.2
+Cotton seed oil,profenofos,0.05
+Cotton seed oil,methomyl,0.04
+Broccoli,malathion,5
+Broccoli and cauliflower,lambda-cyhalothrin,0.5
+"Loofah,  angled",metalaxyl or metalaxyl M,0.2
+Teas,diazinon,0.1
+Teas,fenitrothion,0.5
+Teas,ametryn,0.05
+Mulberry leaves,carbemdazim / benomyl,0.1
+Mulberry leaves,phosalone,0.1
+Oil palm,chlorpyrifos,0.05
+Oil palm,carbaryl,0.05
+Oil palm,carbosulfan,0.05
+Oil palm,carbosulfan / carbofuran,0.1
+Oil palm,captan,5
+Oil palm,deltamethrin,0.05
+Oil palm,dithiocarbamates,0.1
+Oil palm,pirimiphos-methyl,0.1
+Oil palm,fenvalerate,0.5
+Oil palm,lambda-cyhalothrin,0.2
+"Fruits (inedible peel, except citrus fruits)",paraquat,0.01
+Pear and Orient Pear,methidation,0.2
+Pear and Orient Pear,methomyl,0.3
+Flowering white cabbage,deltamethrin,2
+Flowering white cabbage,abamectin,0.01
+"Chinese cabbage, type Pe-tsai",chlorothalonil,1
+"Chinese cabbage, type Pe-tsai",deltamethrin,2
+"Chinese cabbage, type Pe-tsai",diazinon,0.05
+"Chinese cabbage, type Pe-tsai",fenvalerate,1
+"Chinese cabbage, type Pe-tsai",malathion,8
+"Chinese cabbage, type Pe-tsai",chlorothalonil,1
+"Chinese cabbage, type Pe-tsai",dithiocarbamates,5
+"Broccoli, Chinese / Chinese, kale",chlorothalonil,4
+"Broccoli, Chinese / Chinese, kale",deltamethrin,2
+"Broccoli, Chinese / Chinese, kale",dithiocarbamates,15
+"Broccoli, Chinese / Chinese, kale",diazinon,0.05
+"Broccoli, Chinese / Chinese, kale",fenvalerate,3
+"Broccoli, Chinese / Chinese, kale",malathion,3
+"Broccoli, Chinese / Chinese, kale",metalaxyl or metalaxyl M,2
+"Broccoli, Chinese / Chinese, kale",abamectin,0.01
+Brassica vegetables,carbaryl,1
+Brassica vegetables,carbosulfan,0.5
+Brassica vegetables,carbosulfan / carbofuran,0.03
+Brassica vegetables,cypermethrin,1
+Brassica vegetables,phosalone,0.5
+Brassica vegetables,abamectin,0.01
+"Brassica vegetables, except cabbages, head",deltamethrin,0.1
+"Brassica vegetables, except cabbages, head",profenofos,0.5
+others Brassica vegetables,diazinon,0.5
+others Brassica vegetables,fenvalerate,2
+Water spinach,dithiocarbamates,0.3
+Water spinach,metalaxyl or metalaxyl M,2
+Leafy vegetables,paraquat,0.07
+Root and tuber vegetables,paraquat,0.05
+Taro,dithiocarbamates,0.1
+Taro,metalaxyl or metalaxyl M,0.5
+Peppers Chili,chlorpyrifos,3
+Peppers Chili,carbaryl,0.5
+Peppers Chili,carbemdazim / benomyl,2
+Peppers Chili,carbosulfan,0.5
+Peppers Chili,carbosulfan / carbofuran,0.5
+Peppers Chili,cypermethrin,2
+Peppers Chili,deltamethrin,0.1
+Peppers Chili,dithiocarbamates,2
+Peppers Chili,prothiofos,3
+Peppers Chili,profenofos,3
+Peppers Chili,phosalone,0.5
+Peppers Chili,malathion,0.1
+Peppers Chili,methomyl,1
+Peppers Chili,lambda-cyhalothrin,0.3
+Peppers Chili,abamectin,0.01
+Peppers Chili,ethion,3
+"Peppers, black; white or green",metalaxyl or metalaxyl M,0.05
+"Peppers, Sweet",chlorpyrifos,2
+"Peppers, Sweet",carbaryl,5
+"Peppers, Sweet",dithiocarbamates,1
+"Peppers, Sweet",profenofos,0.5
+"Peppers, Sweet",phosalone,0.5
+"Peppers, Sweet",lambda-cyhalothrin,0.3
+"Peppers, Sweet",abamectin,0.02
+"Peppers Chili, dried",chlorpyrifos,20
+"Peppers Chili, dried",carbaryl,2
+"Peppers Chili, dried",carbemdazim/benomyl,20
+"Peppers Chili, dried",carbosulfan,5
+"Peppers Chili, dried",carbosulfan / carbofuran,2
+"Peppers Chili, dried",cypermethrin,10
+"Peppers Chili, dried",deltamethrin,1
+"Peppers Chili, dried",dithiocarbamates,10
+"Peppers Chili, dried",prothiofos,20
+"Peppers Chili, dried",profenofos,20
+"Peppers Chili, dried",phosalone,4
+"Peppers Chili, dried",malathion,1
+"Peppers Chili, dried",methomyl,10
+"Peppers Chili, dried",lambda-cyhalothrin,3
+"Peppers Chili, dried",abamectin,0.2
+"Peppers Chili, dried",ethion,20
+Betel leaves,metalaxyl or metalaxyl M,0.05
+"Fruiting vegetables, Cucurbits including watermelon immature",methomyl,0.1
+Jujube,triazophos,0.03
+Pumpkins,dithiocarbamates,0.2
+Pumpkins,metalaxyl or metalaxyl M,0.2
+Wax gourd,metalaxyl or metalaxyl M,0.2
+"Egg plant, except tomato",carbosulfan,0.03
+"Egg plant, except tomato",carbosulfan / carbofuran,0.1
+"Egg plant, except tomato",cypermethrin,0.03
+"Egg plant, except tomato",phosalone,0.5
+"Egg plant, except tomato",methomyl,0.2
+"Egg plant, except tomato",lambda-cyhalothrin,0.3
+"Egg plant, except tomato",ethion,0.3
+Tomato,chlorothalonil,5
+Tomato,carbemdazim / benomyl,0.5
+Tomato,carbosulfan,0.5
+Tomato,cypermethrin,0.2
+Tomato,deltamethrin,0.3
+Tomato,dicofol,1
+Tomato,dithiocarbamates,2
+Tomato,dimethoate,2
+Tomato,paraquat,0.05
+Tomato,profenofos,10
+Tomato,fenvalerate,1
+Tomato,phosalone,0.5
+Tomato,malathion,0.5
+Tomato,metalaxyl or metalaxyl M,0.2
+Tomato,methomyl,1
+Tomato,lambda-cyhalothrin,0.3
+Tomato,ethion,0.3
+Thai egg plant,abamectin,0.02
+Lime,dithiocarbamates,2
+Lime,profenofos,0.05
+Lime,methomyl,1
+Lime,abamectin,0.01
+Lime,ethion,1
+Coconut,chlorpyrifos,0.05
+Coconut,carbaryl,1
+Coconut,carbosulfan,0.2
+Coconut,carbosulfan / carbofuran,0.02
+Mango,carbaryl,1
+Mango,carbemdazim / benomyl,2
+Mango,captan,5
+Mango,cypermethrin,0.7
+Mango,deltamethrin,0.2
+Mango,dithiocarbamates,2
+Mango,profenofos,0.2
+Mango,fenvalerate,1.5
+Mango,lambda-cyhalothrin,0.2
+Mango,ethephon,2
+Papaya,cypermethrin,0.5
+Mangosteen,carbaryl,1
+Mangosteen,profenofos,10
+Mangosteen,phosalone,1
+Sweet potato,chlorpyrifos,0.05
+Sweet potato,carbosulfan,0.05
+Potato,chlorothalonil,0.2
+Potato,carbaryl,0.2
+Potato,carbosulfan,0.05
+Potato,dithiocarbamates,0.2
+Potato,paraquat,0.05
+Potato,prothiofos,0.05
+Potato,famoxadone,0.02
+Potato,fenvalerate,0.05
+Potato,metalaxyl or metalaxyl M,0.05
+Potato,methomyl,0.02
+Casava,carbosulfan /carbofuran,0.02
+Casava,malathion,0.5
+Casava,omethoate,0.02
+Coffee beans,carbosulfan,0.05
+Coffee beans,carbosulfan /carbofuran,1
+Coffee beans,diazinon,0.2
+Coffee beans,triazophos,0.05
+Coffee beans,fenitrothion,0.05
+Coffee beans,acephate,0.05
+Coffee beans,ametryn,0.05
+Coffee beans,omethoate,0.05
+Cacao beans,carbaryl,0.02
+Cacao beans,carbosulfan,0.05
+Cacao beans,carbosulfan /carbofuran,0.05
+Cacao beans,triazophos,0.05
+Cacao beans,pirimiphos-methyl,0.05
+Cacao beans,lambda-cyhalothrin,0.02
+Cacao beans,acephate,0.05
+Sesame seed,carbosulfan,0.2
+Sesame seed,carbosulfan /carbofuran,0.1
+Sesame seed,triazophos,0.05
+Sesame seed,methomyl,0.2
+Sesame seed,lambda-cyhalothrin,0.2
+Peanut,chlorpyrifos,0.05
+Peanut,chlorothalonil,0.1
+Peanut,carbaryl,2
+Peanut,carbemdazim / benomyl,0.1
+Peanut,carbosulfan,0.05
+Peanut,carbosulfan /carbofuran,0.1
+Peanut,captan,5
+Peanut,dithiocarbamates,0.1
+Peanut,triazophos,0.05
+Peanut,prothiofos,0.05
+Peanut,fenvalerate,0.1
+Peanut,methomyl,0.1
+Peanut,acephate,0.2
+Sunflower seed,carbosulfan,0.05
+Sunflower seed,carbosulfan /carbofuran,0.05
+Sunflower seed,triazophos,0.05
+Kapok seed,pirimiphos-methyl,0.1
+Kapok seed,lambda-cyhalothrin,0.02
+Cotton seed,carbemdazim / benomyl,0.1
+Cotton seed,carbosulfan,0.05
+Cotton seed,carbosulfan /carbofuran,0.1
+Cotton seed,captan,5
+Cotton seed,cypermethrin,0.1
+Cotton seed,deltamethrin,0.05
+Cotton seed,dimethoate,0.05
+Cotton seed,diazinon,0.1
+Cotton seed,buprofezin,0.35
+Cotton seed,paraquat,2
+Cotton seed,profenofos,3
+Cotton seed,fipronil,0.01
+Cotton seed,fenvalerate,0.2
+Cotton seed,phosalone,1
+Cotton seed,methomyl,0.2
+Cotton seed,lambda-cyhalothrin,0.02
+Cotton seed,acephate,2
+Cotton seed,abamectin,0.01
+Cotton seed,omethoate,0.05
+Cashew nut,carbaryl,1
+Cashew nut,deltamethrin,0.02
+Cashew nut,pirimiphos-methyl,0.1
+Linseed,carbosulfan,0.05
+Linseed,carbosulfan /carbofuran,0.1
+Longan,chlorpyrifos,0.5
+Longan,carbaryl,1
+Longan,cypermethrin,1
+Longan,fenvalerate,1
+Longan,lambda-cyhalothrin,0.5
+Litchi,chlorpyrifos,2
+Litchi,carbaryl,1
+Litchi,cypermethrin,2
+Litchi,fenvalerate,1
+Litchi,lambda-cyhalothrin,0.5
+Strawberry,paraquat,0.01
+Citrus fruits,carbaryl,7
+Citrus fruits,carbosulfan,0.1
+Citrus fruits,carbosulfan /carbofuran,0.02
+Citrus fruits,dichlorvos,0.2
+Citrus fruits,dithiocarbamates,2
+Citrus fruits,dimethoate,5
+Citrus fruits,paraquat,0.02
+Citrus fruits,phosalone,1
+Citrus fruits,malathion,7
+Citrus fruits,metalaxyl or metalaxyl M,5
+Citrus fruits,methidation,0.5
+Citrus fruits,methomyl,1
+Citrus fruits,abamectin,0.01
+"Citrus fruits, except pummelo",profenofos,0.1
+"Citrus fruits, except pummelo and grapefruit",cypermethrin,0.3
+Mandarins,imidacloprid,1
+Mandarins,ethion,2
+Pummelo,cypermethrin,0.5
+Pummelo,profenofos,2
+Pummelo,malathion,0.2
+Pummelo,ethion,1
+Pineapple,"2,4-D",0.05
+Pineapple,metalaxyl or metalaxyl M,0.1
+Pineapple,atrazine,0.1
+Pineapple,ametryn,0.05
+Pineapple,ethephon,2
+Asparagus,carbemdazim / benomyl,0.2
+Asparagus,carbosulfan,0.02
+Asparagus,carbosulfan /carbofuran,0.06
+Asparagus,cypermethrin,0.4
+Asparagus,deltamethrin,0.1
+Asparagus,dithiocarbamates,0.1
+Asparagus,phosalone,0.5
+Asparagus,methomyl,2
+Asparagus,lambda-cyhalothrin,0.02
+Shallot,chlorpyrifos,0.2
+Shallot,carbemdazim / benomyl,3
+Shallot,cypermethrin,0.1
+Shallot,deltamethrin,0.1
+Shallot,dithiocarbamates,0.5
+Shallot,dimethoate,0.05
+Shallot,triazophos,0.05
+Shallot,profenofos,0.05
+Shallot,phosalone,0.5
+Shallot,malathion,1
+Shallot,methomyl,0.2
+"Onion, Bulb",chlorpyrifos,0.2
+"Onion, Bulb",carbemdazim / benomyl,2
+"Onion, Bulb",cypermethrin,0.01
+"Onion, Bulb",deltamethrin,0.05
+"Onion, Bulb",dithiocarbamates,0.5
+"Onion, Bulb",dimethoate,0.05
+"Onion, Bulb",triazophos,0.05
+"Onion, Bulb",tebuconazole,0.1
+"Onion, Bulb",profenofos,0.05
+"Onion, Bulb",phosalone,0.5
+"Onion, Bulb",malathion,1
+"Onion, Bulb",metalaxyl or metalaxyl M,2
+"Onion, Bulb",methomyl,0.2
+Sweet basil,fipronil,0.2
+Sweet basil,lambda-cyhalothrin,0.5
+Grapes,carbaryl,5
+Grapes,carbemdazim / benomyl,3
+Grapes,carbosulfan,0.1
+Grapes,carbosulfan /carbofuran,0.02
+Grapes,captan,10
+Grapes,dithiocarbamates,2
+Grapes,triazophos,0.02
+Grapes,paraquat,0.01
+Grapes,profenofos,0.05
+Grapes,metalaxyl or metalaxyl M,1
+Grapes,methidation,0.2
+Grapes,methomyl,0.3
+Grapes,abamectin,0.01
+Grapes,ethephon,1
+Sugar cane,carbaryl,0.05
+Sugar cane,carbemdazim / benomyl,0.1
+Sugar cane,carbosulfan /carbofuran,0.1
+Sugar cane,cypermethrin,0.2
+Sugar cane,deltamethrin,0.05
+Sugar cane,malathion,0.02
+Sugar cane,atrazine,0.1
+Sugar cane,ametryn,0.05
+Apple,methomyl,0.3
+Apple,ethephon,1
+Eggs,"2,4-D",0.01
+Eggs,chlorpyrifos,0.01
+Eggs,carbaryl,0.05
+Eggs,carbemdazim / benomyl,0.05
+Eggs,carbosulfan,0.05
+Eggs,carbosulfan /carbofuran,0.01
+Eggs,cypermethrin,0.05
+Eggs,deltamethrin,0.02
+Eggs,dicofol,0.05
+Eggs,dithiocarbamates ,0.05
+Eggs,dimethoate,0.05
+Eggs,diazinon,0.02
+Eggs,paraquat,0.005
+Eggs,pirimiphos-methyl,0.01
+Eggs,profenofos,0.02
+Eggs,fenitrothion,0.05
+Eggs,methidation,0.02
+Eggs,methomyl,0.02
+Eggs,acephate,0.01
+Eggs,abamectin,0.01
+Eggs,ethephon,0.2
+Edible offal of goat and sheep,chlorpyrifos,0.01
+Edible offal of goat and sheep,deltamethrin,0.03
+"Cattle, edible offal of",chlorpyrifos,0.01
+"Cattle, edible offal of",deltamethrin,0.03
+"Cattle, edible offal of",dicofol,1
+"Poultry, edible offal of","2,4-D",0.05
+"Poultry, edible offal of",chlorpyrifos,0.01
+"Poultry, edible offal of",carbemdazim / benomyl,0.1
+"Poultry, edible offal of",carbosulfan,0.05
+"Poultry, edible offal of",carbosulfan /carbofuran,0.01
+"Poultry, edible offal of",cypermethrin,0.05
+"Poultry, edible offal of",deltamethrin,0.02
+"Poultry, edible offal of",dicofol,0.05
+"Poultry, edible offal of",dithiocarbamates,0.1
+"Poultry, edible offal of",dimethoate,0.05
+"Poultry, edible offal of",diazinon,0.02
+"Poultry, edible offal of",paraquat,0.005
+"Poultry, edible offal of",pirimiphos-methyl,0.01
+"Poultry, edible offal of",profenofos,0.05
+"Poultry, edible offal of",methidation,0.02
+"Poultry, edible offal of",methomyl,0.02
+"Poultry, edible offal of",acephate,0.01
+"Poultry, edible offal of",abamectin,0.02
+"Poultry, edible offal of",ethephon,0.2
+Edible offal (mammalian),"2,4-D",1
+Edible offal (mammalian),carbaryl,1
+Edible offal (mammalian),carbemdazim / benomyl,0.05
+Edible offal (mammalian),carbosulfan,0.05
+Edible offal (mammalian),carbosulfan /carbofuran,0.05
+Edible offal (mammalian),cypermethrin,0.05
+Edible offal (mammalian),dithiocarbamates,0.1
+Edible offal (mammalian),dimethoate,0.05
+Edible offal (mammalian),diazinon,0.03
+Edible offal (mammalian),paraquat,0.05
+Edible offal (mammalian),pirimiphos-methyl,0.01
+Edible offal (mammalian),profenofos,0.05
+Edible offal (mammalian),fenvalerate,0.02
+Edible offal (mammalian),methidation,0.02
+Edible offal (mammalian),methomyl,0.02
+Edible offal (mammalian),acephate,0.05
+Edible offal (mammalian),abamectin,0.1
+Edible offal (mammalian),ethephon,0.2
+"Pig, edible offal of",chlorpyrifos,0.01
+"Pig, edible offal of",deltamethrin,0.03
+Milks,"2,4-D",0.01
+Milks,chlorpyrifos,0.02
+Milks,carbaryl,0.05
+Milks,carbemdazim / benomyl,0.05
+Milks,carbosulfan,0.05
+Milks,carbosulfan / carbofuran,0.01
+Milks,cypermethrin,0.05F
+Milks,deltamethrin,0.05 (fat)
+Milks,dichlorvos,0.02
+Milks,dicofol,0.1F
+Milks,dithiocarbamates,0.05
+Milks,dimethoate,0.05
+Milks,diazinon,0.02 F
+Milks,triazophos,0.01
+Milks,paraquat,0.005
+Milks,pirimiphos-methyl,0.01
+Milks,profenofos,0.01
+Milks,fenvalerate,0.1 F
+Milks,fenitrothion,0.01
+Milks,methidation,0.001
+Milks,methomyl,0.02
+Milks,acephate,0.02
+Milks,abamectin,0.005
+Milks,ethephon,0.05
+Meat of goats and sheep,chlorpyrifos,1 (fat)
+Meat of goats and sheep,deltamethrin,0.5 (fat)
+Cattle meat,deltamethrin,0.5 (fat)
+Cattle meat,chlorpyrifos,1 (fat)
+Cattle meat,carbemdazim / benomyl,0.05
+Cattle meat,dicofol,3 (fat)
+Cattle meat,triazophos,0.01
+Poultry meat,"2,4-D",0.05
+Poultry meat,chlorpyrifos,0.01(fat)
+Poultry meat,carbaryl,0.05
+Poultry meat,carbemdazim / benomyl,0.05
+Poultry meat,carbosulfan,0.05
+Poultry meat,carbosulfan / carbofuran,0.01
+Poultry meat,cypermethrin,0.1(fat)
+Poultry meat,deltamethrin,0.1 (fat)
+Poultry meat,dichlorvos,0.05
+Poultry meat,dicofol,0.1 (fat)
+Poultry meat,dithiocarbamates,0.1
+Poultry meat,dimethoate,0.05
+Poultry meat,diazinon,0.02
+Poultry meat,triazophos,0.01
+Poultry meat,paraquat,0.005
+Poultry meat,pirimiphos-methyl,0.01
+Poultry meat,profenofos,0.05
+Poultry meat,fenitrothion,0.05
+Poultry meat,methidation,0.02
+Poultry meat,methomyl,0.02
+Poultry meat,acephate,0.01
+Poultry meat,abamectin,0.01
+Poultry meat,ethephon,0.1
+Meat (from mammals other than marine mammals),"2,4-D",0.2
+Meat (from mammals other than marine mammals),carbaryl,0.05
+Meat (from mammals other than marine mammals),carbosulfan,0.05
+Meat (from mammals other than marine mammals),carbosulfan / carbofuran,0.05
+Meat (from mammals other than marine mammals),cypermethrin,2 (fat)
+Meat (from mammals other than marine mammals),dichlorvos,0.05
+Meat (from mammals other than marine mammals),dithiocarbamates,0.05
+Meat (from mammals other than marine mammals),dimethoate,0.05
+Meat (from mammals other than marine mammals),diazinon,2 (fat)
+Meat (from mammals other than marine mammals),paraquat,0.005
+Meat (from mammals other than marine mammals),pirimiphos-methyl,0.01
+Meat (from mammals other than marine mammals),profenofos,0.05
+Meat (from mammals other than marine mammals),fenvalerate,1 (fat)
+Meat (from mammals other than marine mammals),fenitrothion,0.05
+Meat (from mammals other than marine mammals),methidation,0.02
+Meat (from mammals other than marine mammals),methomyl,0.02
+Meat (from mammals other than marine mammals),acephate,0.05
+Meat (from mammals other than marine mammals),abamectin,0.01
+Meat (from mammals other than marine mammals),ethephon,0.1
+Pig meat,chlorpyrifos,0.02 (fat)
+Pig meat,deltamethrin,0.5 (fat)
+Chicken fats,cypermethrin,0.1
+Poultry fats,carbemdazim / benomyl,0.05
+Poultry fats,deltamethrin,0.1 (fat)
+Poultry fats,dimethoate,0.05
+Mammalian fats,carbosulfan / carbofuran,0.05
+Mammalian fats,dimethoate,0.05
+Mammalian fats,abamectin,0.1
