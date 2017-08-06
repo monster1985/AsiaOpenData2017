@@ -85,7 +85,9 @@ http://www.maff.go.jp/j/export/e_shoumei/attach/pdf/zannou_kisei-1.pdf
 紐西蘭
 http://www.foodsafety.govt.nz/industry/sectors/plant-products/pesticide-mrl/
 
+-----------------------------------------------------------
 MIT License
+-----------------------------------------------------------
 
 Copyright (c) [2017] [跨領域研究室楊克鈞]
 
