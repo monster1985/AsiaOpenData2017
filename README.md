@@ -8,12 +8,15 @@ https://www.facebook.com/biomaker/
 Chat with me
 
 -----------------------------------------------------------
+<<<<<<< HEAD:README.md
 The story of Data collection
 -----------------------------------------------------------
 
 MRL_datasets_description.docx
 
 -----------------------------------------------------------
+=======
+>>>>>>> Added all:Readme.md
 Primary Dataset/Database
 -----------------------------------------------------------
 
